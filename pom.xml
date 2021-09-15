@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>es-test</module>
+        <module>es-flink</module>
+        <module>es-sparkstreaming</module>
+        <module>es-sparkstreaming</module>
+        <module>es-springdata</module>
     </modules>
 
     <properties>
